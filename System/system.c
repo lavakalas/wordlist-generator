@@ -16,6 +16,7 @@
 // along with wordlist.  If not, see <http://www.gnu.org/licenses/>.
 
 #include <stdio.h>
+#include <stdlib.h>
 
 void pause() {
     fflush(stdin);
